@@ -138,7 +138,7 @@ Sou Larissa Chaves de Souza, desenvolvedora backend e entusiasta da tecnologia. 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-butoom:20px;" 
     src="https://github-readme-stats.vercel.app/api?username=Larissasouzadev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 <br>
