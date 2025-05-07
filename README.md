@@ -1,5 +1,5 @@
 
-# Larissa Souza 💻👩‍💻
+# Larissa Souza 💻
 **`Desenvolvedora Backend`**
 Sou Larissa Chaves de Souza, desenvolvedora backend e entusiasta da tecnologia. Com 18 anos e natural de São Paulo, iniciei minha jornada na área aos 15, explorando linguagens como Python, MySql JavaScript e HTML, CSS. Agora, sigo aperfeiçoando minhas habilidades e me preparando para cursar Engenharia de Software.
 
